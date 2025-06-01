@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tanu.PRO_2.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-01T09:16:27" hostname="DESKTOP-8V21Q3J" time="0.008">
+  <properties/>
+  <testcase name="testApp" classname="com.tanu.PRO_2.AppTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
